@@ -1,0 +1,21 @@
+ span {
+ 	
+ 	text-decoration: underline;
+ }
+ p {
+ 	font-family: Helvetica, Sans-serif;
+ 	 }
+ h4 {
+ 	line-height: 1400%;
+ }
+ right {
+ 	position: absolute; 
+ 	bottom: -115px; 
+ 	right: -200px; 
+ 	font-style: italic; 
+ 	font-family: Georgia, Serif;
+ 	font-size: 16px;
+ 	font-weight: normal;
+ }
+
+ 
